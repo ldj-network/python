@@ -1,0 +1,5 @@
+print("数字合并")
+a = input('输入a 的值')
+b = input('输入b 的值')
+c = str(a)+str(b)
+print(c)
